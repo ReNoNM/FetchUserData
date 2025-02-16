@@ -12,22 +12,27 @@
 
 ## Step 1: клонирование репозитория
 
+```sh
 git clone https://github.com/ReNoNM/FetchUserData.git
+```
 
 ## Step 2: загрузка node_modules
 
+```sh
 npm i
+```
 
 ## Step 3: Запуск Metro
 
 ```sh
-# Using npm
 npm start
 ```
 
 ## Step 4: Запуск приложения Андроид
 
-npm run android или
+```sh
+npm run android
+```
 
 ### Запуск приложения iOS
 
